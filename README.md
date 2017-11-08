@@ -1,4 +1,5 @@
 # inSource
 Project collaboration workspace
 
-Always check out Projects (on the tab) and utilize wiki.
+Check out / utilize Projects (on the tab) and utilize wiki.
+Dev related communication can be made on #dev channel on slack.

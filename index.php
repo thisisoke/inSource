@@ -8,9 +8,9 @@
 
 <body>
     <nav>
-      <li>Dashboard</li>
-      <li>My Account</li>
-      <li>Log out</li>
+      <li><a href="#dashboard">Dashboard<</a></li>
+      <li><a href="#myAccount">My Account</a></li>
+      <li class="btn"><a href="#logOut">Log out</a></li>
     </nav>
 
     <div class="progress">
@@ -38,6 +38,8 @@
         <a href="#">Summary</a>
       </span>
     </div>
+
+
      <?php
       echo file_get_contents("submissionText.html");//dummyf ile
     ?>

@@ -7,9 +7,16 @@
 </head>
 
 <body>
+  <nav>
+    <nav>
+      <li>Dashboard</li>
+      <li>My Account</li>
+      <li>Log out</li>
+    </nav>
+  </nav>
      <?php
-      echo file_get_contents("phaseA.html");
-    ?> 
+      echo file_get_contents("submissionText.html");
+    ?>
 </body>
 
 </html>
